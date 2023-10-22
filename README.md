@@ -55,10 +55,43 @@ The last step in customer segmentation is to group the customers into distinct c
 
   
 ## Run the project ⚙️
-The repository includes a Jupyter notebook which you can run on your local machine or use this <a href=""> Google Colab </a> link.
+The repository includes a Jupyter notebook which you can run on your local machine or use this <a href="https://colab.research.google.com/drive/16cglM8sz6rmmgz4OvBqUDC-tusF_uww1?usp=sharing"> Google Colab </a> link.
 
 
 ## Results 🪄
+![Result_Age_Sscore](Result_age_ss.png)
+### Conclusion
+<b>cluster 0</b> : The average age is around 56, both annula_income and spending_scores are on average.
+It should be researched what can be done to direct to more spending.
+
+<b>cluster 1</b>: The average age is around 43, the annula_income is high but the spending_scores are very low.
+This group is our target audience and specific strategies should be developed to drive this group to spend.
+
+<b>cluster 2</b>:The average age is around 30. The annula_income is high and spending_scores are very high.
+This group consists of our loyal customers. Our company derives the main profit from this group. Very
+special promotions can be made in order not to miss it.    
+    
+<b>cluster 3</b>: The average age is around 28.both annula_income and spending_scores are on average.
+It should be researched what can be done to direct to more spending.
+
+![Result_Sscore_Aincome](Result_ss_income.png)
+### Conclusion
+<b>cluster 0</b> : The average age is around 43, both annula_income and spending_scores are on average.
+It should be researched what can be done to direct more spending.
+
+<b>cluster 1</b>: The average age is around 41, their annual income is very high but their spending_score
+is very low. This group is our target audience and special strategies need to be developed for this
+group.
+
+<b>cluster 2</b> :The average age is around 45. Both annula_income and spending_scores are low. It can be
+directed to shopping with gift certificates.
+
+<b>cluster 3</b>: The average age is around 25. Low annual_incomes but very high spending scores. This
+group does a lot of shopping, but they do not bring much profit.
+
+<b>cluster 4</b>: The average age is around 33, both annula_income and spending_scores are very high.
+This group consists of our loyal customers. Our company derives the main profit from this group. Very
+special promotions can be made in order not to miss it. 
 
 
 ## Acknowledgements
