@@ -60,7 +60,7 @@ The repository includes a Jupyter notebook which you can run on your local machi
 
 ## Results 🪄
 ![Result_Age_Sscore](Result_age_ss.png)
-### Conclusion
+### Conclusion of Clustering based on Age and Spending Score
 <b>cluster 0</b> : The average age is around 56, both annula_income and spending_scores are on average.
 It should be researched what can be done to direct to more spending.
 
@@ -75,7 +75,7 @@ special promotions can be made in order not to miss it.
 It should be researched what can be done to direct to more spending.
 
 ![Result_Sscore_Aincome](Result_ss_income.png)
-### Conclusion
+### Conclusion of Clustering based on Annual Income and Spending Score
 <b>cluster 0</b> : The average age is around 43, both annula_income and spending_scores are on average.
 It should be researched what can be done to direct more spending.
 
